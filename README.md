@@ -9,7 +9,7 @@ B1 Telc Degree habe ich und entwickle jeztz meine Konversationsfähigkeiten weit
 
 Zurzeit nehme ich am Kurs 100 Days of Code: The Complete Python Pro Bootcamp for 2023 teil, der von Dr. Angela Yu wird bei Udemy vorgestellt.
 
-- 💞📫 Wie man mich erreicht, [Linkedin](https://www.linkedin.com/in/maryam-shakeri)
+- 💞📫 Wie man mich erreicht, [Linkedin](https://www.linkedin.com/in/maryam-shakeri), [HackerRank](https://www.hackerrank.com/profile/Maria_Skr) .
 
 <!---
 M91skr/M91skr is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
